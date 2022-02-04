@@ -1,1 +1,1 @@
-# Pusher-Web-Socket
+# Pusher-Web-Sockets
